@@ -19,8 +19,9 @@
   </a>
 
 
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thamue1892&layout=compact&hide=html&theme=radical" alt="thamsanqampofu" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=thamue1892&show_icons=true&theme=radical" alt="thamsanqampofu" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thamue1892&layout=compact&hide=html&theme=radical&count_private=true" alt="thamsanqampofu" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=thamue1892&show_icons=true&theme=radical&count_private=true" alt="thamsanqampofu" />
+
 
 </a>
 </samp>

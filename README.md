@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Thamsanqa Mpofu 👋</h1>
-
+<img align="center" src="https://photos.google.com/photo/AF1QipN5hPFU3yihpy_wnI-ZN7irSRaf3jT2NH_BJ_Zc" alt="thamsanqampofu" />
 
 ** `Software Artisan`**
 

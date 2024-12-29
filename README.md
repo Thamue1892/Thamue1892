@@ -5,7 +5,7 @@
 ** `Software Artisan`**
 
 </div>
-<samp>
+<div>
 
   **💎 JOB:** .Net Fullstack Developer 
 
@@ -19,12 +19,15 @@
   </a>
 
 
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thamue1892&layout=compact&hide=html&theme=radical&count_private=true" alt="thamsanqampofu" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=thamue1892&show_icons=true&theme=radical&count_private=true" alt="thamsanqampofu" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=thamue1892&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=radical&count_private=true" alt="thamsanqampofu" />
+<img height=270 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thamue1892&layout=compact&hide=html&theme=radical&count_private=true" alt="thamsanqampofu" />
+<br />
+<br />
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thaymes&layout=compact&langs_count=20)](https://github.com/thamue1892/github-readme-stats)
 
 
-</a>
-</samp>
+</div>
 <!--
 **Thamue1892/Thamue1892** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

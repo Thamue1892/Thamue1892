@@ -14,20 +14,26 @@
 **💻 FRAMEWORKS:** ASP.NET CORE,React.JS, 
 
 **:mailbox_with_mail: Get in touch :** 
-<a href="https://www.linkedin.com/in/thamsanqa-mpofu/">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/linkedIn.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
-  </a>
+<a href="https://www.linkedin.com/in/thamsanqa-mpofu/"><img height="30" src="https://github.com/Thamue1892/Thamue1892/blob/main/linkedin-svgrepo-com.svg" alt="LinkedIn" style="vertical-align:center; margin:4px"></a>
 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=thamue1892&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=radical&count_private=true" alt="thamsanqampofu" />
+  <br />
+<code><img height="20" alt="c#" src="https://github.com/Thamue1892/Thamue1892/blob/main/c--4.svg"></code>
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" alt="java" src="https://github.com/Thamue1892/Thamue1892/blob/main/java-icon.svg"></code>    
 <br />
 <br />
-<img height=270 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thamue1892&layout=compact&hide=html&theme=radical&count_private=true" alt="thamsanqampofu" />
+
+| <a href="https://github.com/thamue1892/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=thamue1892&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/thamue1892/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thamue1892&layout=compact&theme=radical&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 <br />
 <br />
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thaymes&layout=compact&langs_count=20)](https://github.com/thamue1892/github-readme-stats)
-
+<a href="https://thami.co.za/">
+  <img align="right" alt="Thamsanqa Website" width="21px" src="https://github.com/Thamue1892/Thamue1892/blob/main/internet-svgrepo-com.svg" />
+</a>
 
 </div>
 <!--

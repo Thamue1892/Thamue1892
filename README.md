@@ -20,6 +20,8 @@
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=thamue1892&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=radical&count_private=true" alt="thamsanqampofu" />
+<br />
+<br />
 <img height=270 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thamue1892&layout=compact&hide=html&theme=radical&count_private=true" alt="thamsanqampofu" />
 <br />
 <br />

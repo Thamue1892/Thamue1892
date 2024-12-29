@@ -5,7 +5,7 @@
 ** `Software Artisan`**
 
 </div>
-<div>
+<div align="center">
 
   **💎 JOB:** .Net Fullstack Developer 
 

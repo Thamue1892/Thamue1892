@@ -25,7 +25,7 @@
 <br />
 <br />
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=thamue1892&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Anurag's github stats" />| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thamue1892&layout=compact&theme=radical&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats-phi-swart.vercel.app/api?username=thamue1892&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Anurag's github stats" />| <img align="center" src="https://github-readme-stats-phi-swart.vercel.app/api/top-langs/?username=thamue1892&layout=compact&theme=radical&hide_border=true" /> |
 | ------------- | ------------- |
 
 <br />

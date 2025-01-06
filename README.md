@@ -25,7 +25,7 @@
 <br />
 <br />
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=thamue1892&show_icons=true&include_all_commits=true&show=prs_merged,prs_merged_percentage&theme=radical&hide_border=true" alt="Thamsanqa's github stats" />| <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thamue1892&layout=compact&theme=radical&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats-ten-sandy-92.vercel.app/api?username=thamue1892&show_icons=true&include_all_commits=true&show=prs_merged,prs_merged_percentage&theme=radical&hide_border=true" alt="Thamsanqa's github stats" />| <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thamue1892&layout=compact&theme=radical&hide_border=true" /> |
 | ------------- | ------------- |
 <br />
 

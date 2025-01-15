@@ -15,7 +15,9 @@
 
 **:mailbox_with_mail: Get in touch :**  
 
-   [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/thamsanqa-mpofu/)
+   [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/thamsanqa-mpofu/)   <a href="https://thami.co.za/">
+  <img  alt="Thamsanqa Website" width="21px" src="https://github.com/Thamue1892/Thamue1892/blob/main/internet-svgrepo-com.svg" />
+</a>
 
   <br />
 <code><img height="40" alt="c#" src="https://github.com/Thamue1892/Thamue1892/blob/main/c--4.svg"></code>
@@ -26,15 +28,13 @@
 <br />
 <br />
 
-| <img align="center" src="https://github-readme-stats-tapo.vercel.app/api?username=thamue1892&show_icons=true&hide_border=true&theme=radical" alt="Thamsanqa's github stats" />| <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thamue1892&layout=compact&theme=radical&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats-tapo.vercel.app/api?username=thamue1892&show_icons=true&show=prs_merged_percentage&hide_border=true&theme=radical" alt="Thamsanqa's github stats" />| <img height="220" align="center" src="https://github-readme-stats-tapo.vercel.app/api/top-langs/?username=thamue1892&layout=compact&theme=radical&hide_border=true" /> |
 | ------------- | ------------- |
 <br />
 
-|<img align="center" height="540" src="https://github-readme-stats.vercel.app/api/wakatime?username=thaymes&theme=radical&hide_border=true&layout=compact&langs_count=15"/>|
+|<img align="center" height="565" src="https://github-readme-stats-tapo.vercel.app/api/wakatime?username=thaymes&theme=radical&hide_border=true&layout=compact&langs_count=15"/>|
 | ------------- |
-<a href="https://thami.co.za/">
-  <img  align="right" alt="Thamsanqa Website" width="21px" src="https://github.com/Thamue1892/Thamue1892/blob/main/internet-svgrepo-com.svg" />
-</a>
+
 
 </div>
 <!--

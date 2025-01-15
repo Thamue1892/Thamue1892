@@ -13,8 +13,9 @@
 
 **💻 FRAMEWORKS:** ASP.NET CORE,React.JS, 
 
-**:mailbox_with_mail: Get in touch :** 
-<a href="https://www.linkedin.com/in/thamsanqa-mpofu/"><img height="35" src="https://github.com/Thamue1892/Thamue1892/blob/main/linkedin-svgrepo-com.svg" alt="LinkedIn" style="margin:4px"></a>
+**:mailbox_with_mail: Get in touch :**  
+
+   [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/thamsanqa-mpofu/)
 
   <br />
 <code><img height="40" alt="c#" src="https://github.com/Thamue1892/Thamue1892/blob/main/c--4.svg"></code>
@@ -25,7 +26,7 @@
 <br />
 <br />
 
-| <img align="center" src="https://github-readme-stats-ten-sandy-92.vercel.app/api?username=thamue1892&show_icons=true&include_all_commits=true&show=prs_merged,prs_merged_percentage&theme=radical&hide_border=true" alt="Thamsanqa's github stats" />| <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thamue1892&layout=compact&theme=radical&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats-tapo.vercel.app/api?username=thamue1892&show_icons=true&hide_border=true&theme=radical" alt="Thamsanqa's github stats" />| <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thamue1892&layout=compact&theme=radical&hide_border=true" /> |
 | ------------- | ------------- |
 <br />
 

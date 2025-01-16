@@ -7,11 +7,13 @@
 </div>
 <div">
 
-**💎 JOB:** .Net Fullstack Developer 
+**💎 JOB:** Full-stack .NET Developer 
 
 **💻 LANGUAGES:** C#, C++, Javascript, Java
 
-**💻 FRAMEWORKS:** ASP.NET CORE,React.JS, 
+**💻 FRAMEWORKS:** ASP.NET CORE,React.JS,Bootstrap 
+
+**💻 TOOLS:** GIT,VISUAL STUDIO,VS CODE,DEVOPS,AZURE,AWS
 
 **:mailbox_with_mail: Get in touch :**  
 

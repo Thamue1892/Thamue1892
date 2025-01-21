@@ -7,15 +7,15 @@
 </div>
 <div">
 
-**💎 JOB:** .NET Developer 
+<h3>💎 JOB: .NET Developer </h3>
 
-**💻 LANGUAGES:** C#, C++, Javascript, Java
+**💻 LANGUAGES:** C#, C++, JAVASCRIPT, JAVA
 
-**💻 FRAMEWORKS:** ASP.NET CORE,React.JS,Bootstrap 
+**💻 FRAMEWORKS:** ASP.NET CORE,REACT.JS,BOOTSTRAP,VUE.JS 
 
 **💻 TOOLS:** GIT,VISUAL STUDIO,VS CODE,DEVOPS,AZURE,AWS
 
-**:mailbox_with_mail: Get in touch :**  
+**:mailbox_with_mail: GET IN TOUCH :**  
 
    [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/thamsanqa-mpofu/)   <a href="https://thami.co.za/">
   <img  alt="Thamsanqa Website" width="21px" src="https://github.com/Thamue1892/Thamue1892/blob/main/internet-svgrepo-com.svg" />

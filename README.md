@@ -7,7 +7,7 @@
 </div>
 <div">
 
-**💎 JOB:** Full-stack .NET Developer 
+**💎 JOB:** .NET Developer 
 
 **💻 LANGUAGES:** C#, C++, Javascript, Java
 

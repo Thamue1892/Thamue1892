@@ -30,7 +30,7 @@
 <br />
 <br />
 
-| <img align="center" src="https://github-readme-stats-tapo.vercel.app/api?username=thamue1892&show_icons=true&show=prs_merged_percentage&hide_border=true&theme=radical" alt="Thamsanqa's github stats" />| <img height="220" align="center" src="https://github-readme-stats-tapo.vercel.app/api/top-langs/?username=thamue1892&layout=compact&theme=radical&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=thamue1892&show_icons=true&show=prs_merged_percentage&hide_border=true&theme=radical" alt="Thamsanqa's github stats" />| <img height="220" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thamue1892&layout=compact&theme=radical&hide_border=true" /> |
 | ------------- | ------------- |
 <br />
 

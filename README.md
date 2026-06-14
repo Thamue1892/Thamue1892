@@ -27,13 +27,13 @@
 ### Languages
 
 <p>
-  <img height="36" alt="C#" title="C#" src="https://github.com/Thamue1892/Thamue1892/blob/main/c--4.svg"/>
-  <img height="36" alt="JavaScript" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"/>
-  <img height="36" alt="TypeScript" title="TypeScript" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png"/>
-  <img height="36" alt="React" title="React" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"/>
-  <img height="36" alt="Java" title="Java" src="https://github.com/Thamue1892/Thamue1892/blob/main/java-icon.svg"/>
+  <img height="36" alt="C#" title="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+  <img height="36" alt="C++" title="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+  <img height="36" alt="JavaScript" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img height="36" alt="TypeScript" title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+  <img height="36" alt="Java" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img height="36" alt="Python" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 </p>
-
 ### Frameworks & Libraries
 
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)

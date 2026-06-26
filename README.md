@@ -69,16 +69,6 @@
 
 ---
 
-## ⏱️ WakaTime Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats-tapo.vercel.app/api/wakatime?username=thaymes&theme=radical&hide_border=true&layout=compact&langs_count=15"/>
-
-</div>
-
----
-
 ## ⚡ Fun Fact
 
 > *"Great software is built by solving real problems, one line of code at a time."*

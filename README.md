@@ -2,10 +2,6 @@
 
 # Thamsanqa Mpofu
 
-<img src="https://github.com/Thamue1892/Thamue1892/blob/main/IMG_20220606_113554(1)-modified.png" alt="Thamsanqa Mpofu" width="140" style="border-radius: 50%;"/>
-
-### 💻 I provide solutions through code
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thamsanqa-mpofu/)
 [![Website](https://img.shields.io/badge/Website-thami.co.za-1D9E75?style=flat-square&logo=google-chrome&logoColor=white)](https://thami.co.za/)
 

@@ -83,16 +83,6 @@
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thamue1892&theme=redical&hide_border=true"/>
-
-</div>
-
----
-
 ## ⚡ Fun Fact
 
 > *"Great software is built by solving real problems, one line of code at a time."*

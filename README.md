@@ -11,10 +11,10 @@
 
 ## About Me
 
-- 💼 .NET Developer with a passion for clean, scalable architecture
-- ☁️ Cloud enthusiast with hands-on experience in **Microsoft Azure** and **AWS**
-- 🚀 Building full-stack web applications with modern frameworks
-- 🌱 Continuously learning and improving — one commit at a time
+- 💼 .NET Developer with a passion for clean, scalable architecture.
+- ☁️ Cloud enthusiast with hands-on experience in **Microsoft Azure** and **AWS**.
+- 🚀 Building full-stack web applications with modern frameworks.
+- 🌱 Continuously learning and improving — one commit at a time.
 
 ---
 

@@ -1,77 +1,113 @@
 <div align="center">
 
-# Thamsanqa Mpofu
+# 👋 Hi, I'm Thamsanqa Mpofu
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thamsanqa-mpofu/)
-[![Website](https://img.shields.io/badge/Website-thami.co.za-1D9E75?style=flat-square&logo=googlechrome&logoColor=white)](https://thami.co.za/)
+### .NET Developer • Cloud Engineer • Full-Stack Developer
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=.NET+Developer;Cloud+Engineer;Azure+%7C+AWS;Full-Stack+Developer;Building+Scalable+Applications" />
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thamsanqa-mpofu/)
+[![Website](https://img.shields.io/badge/Portfolio-thami.co.za-1D9E75?style=for-the-badge&logo=googlechrome&logoColor=white)](https://thami.co.za/)
 </div>
 
 ---
 
-## About Me
+# 💫 About Me
 
-- 💼 .NET Developer with a passion for clean, scalable architecture.
-- ☁️ Cloud enthusiast with hands-on experience in **Microsoft Azure** and **AWS**.
-- 🚀 Building full-stack web applications with modern frameworks.
-- 🌱 Continuously learning and improving — one commit at a time.
+- 💼 Passionate **.NET Developer**
+- ☁️ Experienced with **Microsoft Azure** and **AWS**
+- 🏗️ Building scalable APIs and full-stack applications
+- 🚀 Passionate about clean architecture and maintainable code
+- 🌱 Currently learning **Cloud Native Development**, **Microservices**, and **DevOps**
+- ⚡ Always exploring new technologies and contributing to open source
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ### Languages
 
 <p>
-  <img height="36" alt="C#" title="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
-  <img height="36" alt="C++" title="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
-  <img height="36" alt="JavaScript" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img height="36" alt="TypeScript" title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-  <img height="36" alt="Java" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img height="36" alt="Python" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 </p>
 
-### Frameworks & Libraries
-
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-
-### Tools & Cloud
+### Frameworks
 
 <p>
-  <img height="36" alt="Git" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img height="36" alt="Visual Studio" title="Visual Studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg"/>
-  <img height="36" alt="VS Code" title="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-  <img height="36" alt="Azure DevOps" title="Azure DevOps" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg"/>
-  <img height="36" alt="Microsoft Azure" title="Microsoft Azure" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
-  <img height="36" alt="AWS" title="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs"/>
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap"/>
+</p>
+
+### Cloud & Tools
+
+<p>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg"/>
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+# 🔥 GitHub Streak
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=thamue1892&show_icons=true&show=prs_merged_percentage&theme=radical&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thamue1892&layout=compact&theme=radical&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=thamue1892&theme=radical&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🔥 GitHub Streak
+# 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=thamue1892&theme=radical&hide_border=true" alt="GitHub Streak"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thamue1892&theme=react-dark&hide_border=true&area=true"/>
 
 </div>
 
 ---
 
-## ⚡ Fun Fact
+# 📋 Profile Summary
 
-> *"Great software is built by solving real problems, one line of code at a time."*
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thamue1892&theme=radical"/>
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+- 🔭 Building scalable **ASP.NET Core** applications
+- ☁️ Azure & AWS cloud solutions
+- 🏗️ Clean Architecture & Domain-Driven Design
+- 🚀 DevOps, CI/CD, and containerization
+
+---
+
+<div align="center">
+
+### 💬 Favorite Quote
+
+> *"First, solve the problem. Then, write the code."*  
+> — John Johnson
+
+⭐ **Thanks for visiting my profile!**
+
+</div>

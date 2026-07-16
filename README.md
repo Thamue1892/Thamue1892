@@ -62,26 +62,6 @@
 
 ---
 
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=thamue1892&theme=radical&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thamue1892&theme=react-dark&hide_border=true&area=true"/>
-
-</div>
-
----
-
 # 📋 Profile Summary
 
 <div align="center">
@@ -107,7 +87,5 @@
 
 > *"First, solve the problem. Then, write the code."*  
 > — John Johnson
-
-⭐ **Thanks for visiting my profile!**
 
 </div>

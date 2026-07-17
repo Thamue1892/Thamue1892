@@ -20,7 +20,6 @@
 - 🏗️ Building scalable APIs and full-stack applications
 - 🚀 Focused on clean architecture and maintainable code
 - 🏗️ Clean Architecture • CQRS/MediatR • Domain-Driven Design
-- 🔐 GRC & Security: POPIA • ISO 27001 • NIST CSF • PCI-DSS
 - 🌱 Currently learning **Cloud Native Development**, **Microservices**, and **DevOps**
 - ⚡ Always exploring new technologies and contributing to open source
 

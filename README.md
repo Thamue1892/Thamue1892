@@ -101,7 +101,6 @@
 - 🧩 **Microsoft 365 Certified: Fundamentals** — Microsoft (2024)
 - 🔑 **Microsoft 365 Identity and Services** — Mecer Inter-Ed (2022)
 - ☕ **Introduction to Java Programming** — UNISA (2023)
-- 🛡️ GRC practice across **POPIA**, **ISO 27001**, **NIST CSF**, and **PCI-DSS** frameworks
 
 ## 📋 Profile Summary
 

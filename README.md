@@ -33,6 +33,7 @@
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/javascript/javascript-original.svg"/>
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/typescript/typescript-original.svg"/>
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/python/python-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/java/java-original.svg"/>
 </p>
 
 ### Frameworks

@@ -131,6 +131,5 @@ https://github.com/thamue1892
 > *"First, solve the problem. Then, write the code."*
 > **— John Johnson**
 
-⭐ Thanks for visiting my profile!
 
 </div>

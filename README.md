@@ -40,7 +40,7 @@ I'm always learning, solving real-world problems, and building software that cre
 
 **Frontend**
 
-React • React Native • Expo • Vue.js • Vite • Tailwind CSS • Bootstrap
+React • React Native • Expo • Vue.js • Vite • Tailwind CSS • Bootstrap • Blazor • .NET MAUI
 
 **Databases**
 
@@ -130,6 +130,5 @@ https://github.com/thamue1892
 
 > *"First, solve the problem. Then, write the code."*
 > **— John Johnson**
-
 
 </div>
